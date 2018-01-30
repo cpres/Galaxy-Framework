@@ -9,7 +9,7 @@
 
 jQuery(document).ready(function ($) {
   
-  var glxy_site = 'http://andvida.shopify.com';
+  var glxy_site = 'http://example.com';
 
   var GlxyParallax = {
     
